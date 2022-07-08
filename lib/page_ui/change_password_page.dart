@@ -10,7 +10,7 @@ class ChangePasswordPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-            'Change Password'
+          'Change Password'
         ),
       ),
       body: ListView(
