@@ -44,8 +44,8 @@ class EditProfilePage extends StatelessWidget {
               color: Colors.white,
               labelColor: CColors.primary,
               border: BorderSide(
-                  color: CColors.primary,
-                  width: 2
+                color: CColors.primary,
+                width: 2
               ),
             )
           ],
