@@ -46,7 +46,7 @@ class EditProfilePage extends StatelessWidget {
               border: BorderSide(
                 color: CColors.primary,
                 width: 2
-              ),
+              )
             )
           ],
         ),
